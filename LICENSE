@@ -1,0 +1,15 @@
+This project is dual-licensed.
+
+DOCUMENTATION (all prose, README, and Markdown files):
+  Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+  (CC BY-NC-ND 4.0) — https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+CODE (all scripts and configuration files, e.g. under scripts/):
+  PolyForm Noncommercial License 1.0.0
+  https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+Both licenses permit noncommercial use only. For any commercial use, contact the
+author.
+
+Not affiliated with Moshi (getmoshi.app) or Tailscale. All trademarks belong to
+their respective owners.
