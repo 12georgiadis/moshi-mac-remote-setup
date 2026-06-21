@@ -10,6 +10,8 @@ Most of this is documented somewhere. The three things that cost me hours, and t
 
 > Placeholders: replace `100.x.y.z` with your Mac's Tailscale IP, `youruser` with your macOS short username, and `you@example.com` with your Tailscale login.
 
+**Companion guide:** for the bigger picture — how Moshi compares to native **Remote Control** (Claude app / ChatGPT app for Codex) and per-tool mobile apps, when to use which, the persistence truth, and the multi-machine / parity patterns — see **[Driving coding agents from your phone](docs/driving-coding-agents-remote.md)**.
+
 ---
 
 ## What you get
